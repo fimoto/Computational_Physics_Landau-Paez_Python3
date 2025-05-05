@@ -1,3 +1,11 @@
+""" From "COMPUTATIONAL PHYSICS", 3rd Ed, Enlarged Python eTextBook  
+    by RH Landau, MJ Paez, and CC Bordeianu
+    Copyright Wiley-VCH Verlag GmbH & Co. KGaA, Berlin;  Copyright R Landau,
+    Oregon State Unv, MJ Paez, Univ Antioquia, C Bordeianu, Univ Bucharest, 2015.
+    Support by National Science Foundation"""
+
+# List 17.4 QMCbouncer.py: Modified version by F.I. based on the previous Fortran code
+
 import numpy as np
 import matplotlib.pyplot as plt
 import random
